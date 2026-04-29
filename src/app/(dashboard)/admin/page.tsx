@@ -7,7 +7,7 @@ const AdminPage = () => {
          <div className="w-full lg:w-3/4">
          {/* USER CARDS */}
          <div className="">
-            <UserCard/>
+            <UserCard type="Student"/>
          </div>
          </div>
             {/* RIGHT */}
