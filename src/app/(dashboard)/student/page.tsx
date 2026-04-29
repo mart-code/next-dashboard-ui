@@ -1,5 +1,10 @@
 const StudentPage = () => {
-    return(<div>StudentPage</div>)
+    return (
+        <div>
+            <h1>Student Page</h1>
+            <p>Welcome to the student dashboard.</p>
+        </div>
+    );
 }
 
-export default StudentPage;
+export default StudentPage
